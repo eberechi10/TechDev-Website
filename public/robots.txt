@@ -1,0 +1,5 @@
+# Robots.txt for TechDev by Techstackgist
+User-agent: *
+Allow: /
+
+Sitemap: https://techdev.techstackgist.com/sitemap.xml
