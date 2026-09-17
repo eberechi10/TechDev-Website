@@ -66,11 +66,11 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenContact, onOpenRateCard })
               </div>
             </div>
             <div className="flex flex-col">
-              <span className="font-extrabold tracking-wider text-lg text-white font-sans flex items-center gap-1.5">
+              <span className="font-extrabold tracking-wider text-lg text-white font-sans flex items-center gap-1.5 leading-tight">
                 TECHDEV
                 <span className="inline-block w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse"></span>
               </span>
-              <span className="text-[11px] font-medium tracking-wider text-slate-400 uppercase -mt-1">
+              <span className="text-[11px] font-medium tracking-wider text-slate-400 uppercase whitespace-nowrap leading-none mt-0.5">
                 by {COMPANY_INFO.parentBrand}
               </span>
             </div>

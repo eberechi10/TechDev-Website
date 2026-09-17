@@ -41,10 +41,10 @@ export const Footer: React.FC<FooterProps> = ({ onOpenLegal, onOpenContact, onOp
                 </div>
               </div>
               <div className="flex flex-col">
-                <span className="font-extrabold tracking-wider text-xl text-white font-sans">
+                <span className="font-extrabold tracking-wider text-xl text-white font-sans leading-tight">
                   TECHDEV
                 </span>
-                <span className="text-xs font-semibold tracking-wider text-slate-400 uppercase -mt-0.5">
+                <span className="text-xs font-semibold tracking-wider text-slate-400 uppercase whitespace-nowrap leading-none mt-1">
                   by {COMPANY_INFO.parentBrand}
                 </span>
               </div>
