@@ -290,7 +290,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenContact, onViewWork }) => {
                       
                       <div className="relative h-48 rounded-xl overflow-hidden border border-slate-800 shadow-lg group">
                         <img
-                          src="/src/assets/images/tech_hero_workspace_1789594430536.jpg"
+                          src="/assets/images/tech_hero_workspace_1789594430536.jpg"
                           alt="TechDev Engineering Lab & Modern Workspace"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"

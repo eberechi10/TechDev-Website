@@ -72,7 +72,7 @@ export const AboutSection: React.FC = () => {
             {/* Engineering Studio Image Card */}
             <div className="relative rounded-2xl overflow-hidden border border-slate-700/80 shadow-2xl group">
               <img 
-                src="/src/assets/images/software_studio_1789594455706.jpg" 
+                src="/assets/images/software_studio_1789594455706.jpg" 
                 alt="TechDev Software Engineering Studio & UI/UX Lab" 
                 referrerPolicy="no-referrer"
                 className="w-full h-52 sm:h-60 object-cover group-hover:scale-105 transition-transform duration-500" 

@@ -6,7 +6,7 @@ export const FOUNDER: TeamMember = {
   role: "Founder & Technology Lead",
   title: "Software Engineer & Technology Educator",
   bio: "Technology educator, developer and digital solutions builder with experience across software development, UI/UX, cybersecurity, data and technology education. Passionate about helping commercial enterprises and startups bridge the gap between business objectives and scalable software engineering.",
-  photoUrl: "/src/assets/images/eberechukwu_portrait_1789595647999.jpg",
+  photoUrl: "/assets/images/eberechukwu_portrait_1789595647999.jpg",
   linkedin: "https://linkedin.com/in/eberechukwu-john-sunday",
   github: "https://github.com/johnsundayeberes",
   twitter: "https://x.com/techstackgist"

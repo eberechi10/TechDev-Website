@@ -27,7 +27,7 @@ export const PROJECTS: ProjectItem[] = [
     demoType: "hotel",
     featured: true,
     metricsLabel: "Direct Reservation Inquiries",
-    imageUrl: "/src/assets/images/hotel_showcase_1789594480138.jpg"
+    imageUrl: "/assets/images/hotel_showcase_1789594480138.jpg"
   },
   {
     id: "realestate-demo",
@@ -55,7 +55,7 @@ export const PROJECTS: ProjectItem[] = [
     demoType: "realestate",
     featured: true,
     metricsLabel: "Verified Buyer Inspections",
-    imageUrl: "/src/assets/images/realestate_showcase_1789594491702.jpg"
+    imageUrl: "/assets/images/realestate_showcase_1789594491702.jpg"
   },
   {
     id: "auto-demo",
@@ -83,7 +83,7 @@ export const PROJECTS: ProjectItem[] = [
     demoType: "auto",
     featured: true,
     metricsLabel: "Pre-Qualified Lot Visits",
-    imageUrl: "/src/assets/images/auto_showroom_1789594503348.jpg"
+    imageUrl: "/assets/images/auto_showroom_1789594503348.jpg"
   },
   {
     id: "logistics-demo",
